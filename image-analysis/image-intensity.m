@@ -1,3 +1,8 @@
+#Uses histograms to find the most common intensity in a picture
+
+#REQUIREMENTS:
+#on Octave, requires image processing package: pkg load image
+
 clear;
 clc;
 close all;
