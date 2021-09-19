@@ -3,7 +3,7 @@
 #Inspired by: https://www.limacharlie.io/blog/2019/1/16/levenshtein-distance-as-a-defence-against-spear-phishing
 
 #REQUIREMENTS:
-#on Octave, requires statistics package: pkg load strings
+#on Octave, requires strings package: pkg load strings
 
 target_domain = 'example.local'
 line = '';
